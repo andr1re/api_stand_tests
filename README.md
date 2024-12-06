@@ -1,1 +1,1 @@
-bre el archivo README.md y agrega algo de texto
+Abre el archivo README.md y agrega algo de texto
